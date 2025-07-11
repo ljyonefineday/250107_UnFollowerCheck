@@ -22,4 +22,4 @@ for i in urltest:
     idff[i] = fc.get_followers(i)
 
 print(idff)
-prirnt("Followers numbers fetched successfully.")
+print("Followers numbers fetched successfully.")
